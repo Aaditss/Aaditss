@@ -1,5 +1,5 @@
-<h1 align="center">Hello this is Aditya</h1>
-<h3 align="center">Web developer with pinch of design skill.</h3>
+<h1 align="center">Hello this is Aditya 👋 </h1>
+<h4 align="center">Web developer with pinch of design skill 💻</h4>
 
 - 🔭 I’m currently working on **Building games using JS**
 
