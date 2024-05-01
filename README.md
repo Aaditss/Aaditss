@@ -1,11 +1,9 @@
 <h1 align="center">Hello 👋 this is Aditya </h1>
-<h3 align="center">Web developer with pinch of design skill 💻</h3>
 
-- 🔭 I’m currently working on **Building games using JS**
 
-- 🌱 I’m currently learning **Backend in Mongo DB.**
+- 🔭 I’m currently working on **Building projects in DATA SCIENCE**
 
-- 💬 Ask me about **C++, JS, Bootstrap.**
+- 💬 Ask me about **C++, JS, DBMS, OS.**
 
 - 📫 How to reach me **agkulkarni2003@gmail.com**
 
